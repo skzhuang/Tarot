@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1743685234|8419502583';
+const CACHE_VERSION = '1743687771|10956416225';
 /** @type {string} */
 const CACHE_PREFIX = 'Tarot-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
